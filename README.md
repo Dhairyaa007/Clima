@@ -1,1 +1,1 @@
-CLima - Live Weather Tracking App. You can track current tempreature and weather of your city.
+Clima is a live weather tracking app developed using Flutter that enables users to monitor the current temperature and weather conditions in their city. With Clima, users can easily keep track of the weather updates in real-time, right from their mobile devices. This app is designed to provide a seamless and user-friendly experience for users to stay up-to-date with the weather.
